@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## I am <a href="https://t.me/theAkbarov">Hamidulloh</a> and I am Software Engineer
+## I am <a href="https://t.me/theAkbarov">Sardor Akbarov</a> and I am Software Engineer
 
 ### How to reach me: <a href="mailto:sardor@akbarov.uk">Sardor@akbarov.uk</a>
 
