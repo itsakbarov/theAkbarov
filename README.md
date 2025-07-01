@@ -4,7 +4,7 @@
 
 ### How to reach me: <a href="mailto:sardor@akbarov.uk">Sardor@akbarov.uk</a>
 
-![](https://github-readme-stats.vercel.app/api?username=theAkbarov&count_private=true&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api?username=itsakbarov&count_private=true&show_icons=true&theme=react)
 
 ### Social Media:
 
